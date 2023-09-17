@@ -39,7 +39,7 @@
     "bootstrap": "^4.6.0",
     "chart.js": "^2.8.0",
     "dgg-chat-gui": "^2.8.2",
-    "jquery": "^3.6.0",
+    "jquery": "^3.7.0",
     "jquery-validation": "^1.19.3",
     "moment": "^2.29.1",
     "popper.js": "^1.15.0",
