@@ -35,18 +35,18 @@
     "static": "./static"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.15.3",
-    "bootstrap": "^4.6.0",
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "bootstrap": "^4.6.2",
     "chart.js": "^2.8.0",
-    "dgg-chat-gui": "^2.8.2",
-    "jquery": "^3.6.0",
-    "jquery-validation": "^1.19.3",
-    "moment": "^2.29.1",
+    "dgg-chat-gui": "^2.47.0",
+    "jquery": "^3.7.1",
+    "jquery-validation": "^1.21.0",
+    "moment": "^2.30.1",
     "popper.js": "^1.15.0",
     "roboto-fontface": "^0.10.0",
     "throttle-debounce": "^3.0.1",
-    "webpack-manifest-plugin": "^3.1.1",
-    "whatwg-fetch": "^3.6.2"
+    "webpack-manifest-plugin": "^3.2.0",
+    "whatwg-fetch": "^3.6.20"
   },
   "devDependencies": {
     "@babel/core": "^7.14.3",
